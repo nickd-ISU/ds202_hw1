@@ -1,6 +1,6 @@
 ---
 title: "HW1"
-author: "Nicholas Matthews; Github: nicholasmatthews713"
+author: "Nicholas Matthews; Github: nickmatthews713"
 date: "1/15/2020"
 output: html_document
 ---
@@ -28,7 +28,7 @@ You can download a copy of this `Rmd` file on the [course website](https://xdaii
 
 ### My paragraph:  
 I think a job related to data science would be **finding patterns among consumer purchases and consumer attributes** for a specific advertising company. By using market data to find what types of consumers (Male, Female, old, young) buy certain products, *the advertising company could make their advertisements appeal to the correct audiences, leading to greater prophit.* Here is a picture of my schedule and [Here is a link](https://github.com/nicholasmatthews713/ds202_hw1.git) to my github repository for this assignment
-![image of my schedule](Nick_Schedule.jpg)
+![image of my schedule](Nick_Schedule.jpg).
 
 3. To make sure your R and Rstudio installation is correct, find the version of R by entering `version` into the R console. Put this command into a R code trunk in your `Rmd` file to automatically include the R version in your report.
 ```{r}
@@ -53,6 +53,8 @@ version
     git config user.email "yourEmail"
     ```
 
-7. Register a [GitHub](https://www.github.com) account. What is your username?
+7. Register a [GitHub](https://www.github.com) account. What is your username?  
+
+## Github Username: nickmatthews713
 
 Now Knit the finished Homework 1 one last time, and you are done! The actual submission (push to a GitHub repository) will take place in Lab 1.
